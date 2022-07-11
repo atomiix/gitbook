@@ -42,7 +42,7 @@ In PrestaShop 1.7, the menu has been reorganized in three main sections, from th
 
 * **Dashboard**. The homepage of your back office, where you can see the main statistics, live.
 
-**Sell**
+****[**Sell**](./)****
 
 It’s all about your day-to-day activity. Orders, customers, catalog, etc. This section presents the essence of your business, where you go each day to get your business going.
 
