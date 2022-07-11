@@ -46,7 +46,7 @@ In PrestaShop 1.7, the menu has been reorganized in three main sections, from th
 
 It’s all about your day-to-day activity. Orders, customers, catalog, etc. This section presents the essence of your business, where you go each day to get your business going.
 
-* ****[**Orders**](./). Once clients start adding products in their shopping carts, you will see orders on this menu, with the resulting invoices. This is also where you handle credit slips and abandoned carts, among other things.
+* [**Orders**](./). Once clients start adding products in their shopping carts, you will see orders on this menu, with the resulting invoices. This is also where you handle credit slips and abandoned carts, among other things.
 * **Catalog**. This is the heart of your shop, where you will add products, create categories, set up brands and suppliers, define discounts etc.
 * **Customers**. Here you can access all the information about your clients, and edit their addresses.
 * **Customer service**. Where you handle customer service and anything post-purchase: merchandise returns, per-order customer service, etc.
